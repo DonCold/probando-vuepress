@@ -2,7 +2,7 @@
 
 Esta es una pagina de prueba para usar VuePress.
 
-```JS
+```js
 var start = function(){
     console.log("Hola Mundo");
 }
@@ -11,4 +11,3 @@ var start = function(){
 ## Subtitulo 1
 
 Colocando mas texto de relleno
-
