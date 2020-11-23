@@ -11,7 +11,7 @@ module.exports = {
         sidebar: {
             "/pagina/": obtenerSideBar(),
         },
-    }
+    },
 };
 
 function obtenerSideBar() {
